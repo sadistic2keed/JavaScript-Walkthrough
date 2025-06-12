@@ -23,3 +23,15 @@ NOTE: const can't be reassigned. <br
 
     const number = 10;
     number = 20; // Error: Assignment to constant variable.
+
+## Variable Naming Convention
++ We can use $, _. but no special characters like @, #, etc.
+
+## assigning multiple values 
+We use {} for mixed values and [] for array. These are considered object under 'typeof'
+
+    Eg: const personDetails = {Name: "Manash", age: 18, Roll No.:21};
+        console.log (personDetails);
+    AND
+        const arrays = [1,2,3,4,5,6,7,8,9,0];
+        console.log (arrays);   
