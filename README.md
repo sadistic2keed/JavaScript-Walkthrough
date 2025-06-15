@@ -24,12 +24,5 @@ Welcome to the **JavaScript Walkthrough**! This guide is designed to help beginn
 
 ---
 
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Happy coding! 🚀
 
