@@ -1,10 +1,5 @@
 # JavaScript Walkthrough
 
-Welcome to the **JavaScript Walkthrough**! This guide is designed to help beginners and intermediate developers understand core JavaScript concepts, syntax, and practical use cases through simple, digestible examples and explanations.
-
----
-
-
 ## 🧠 Topics Covered
 
 - **JavaScript Basics**: Variables, data types, operators
