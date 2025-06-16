@@ -19,5 +19,3 @@
 
 ---
 
-Happy coding! 🚀
-
