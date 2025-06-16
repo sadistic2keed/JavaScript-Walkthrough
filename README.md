@@ -17,5 +17,4 @@
 - Prepare for web development and front-end frameworks
 - Gain hands-on practice with modern JavaScript features
 
----
 
