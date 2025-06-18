@@ -17,6 +17,8 @@ console.log("apple" == "apple")
 console.log("appl" < "apple") //prints true
 
 
+console.log(undefined == null);
+
 
 
 
