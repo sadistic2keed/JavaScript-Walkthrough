@@ -11,3 +11,10 @@ const apple = readlineSync.question("Whats your name: );
 TERNARY
 
 condition ? console.log : condition ? console.log : console.log
+
+LOGICAL
+
+AND &&
+OR ||
+NOT !
+NULLISH COALESCING ??
